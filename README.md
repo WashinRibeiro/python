@@ -1,2 +1,3 @@
-# python
- Minhas atividades de Python 
+# Python
+
+ Essas são atividades que realizei em Python !!!

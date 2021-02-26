@@ -3,4 +3,4 @@
 
 cidade = str(input('Digite o nome da sua cidade: ')).strip()
 print('A cidade mencionada acima começa com a palavra "SANTO"')
-print(cidade[:5].upper() == 'SANTO')
+print(cidade[:5].lower() == 'santo')
